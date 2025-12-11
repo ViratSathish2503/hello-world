@@ -1,2 +1,1 @@
-# hello-world
-Hello World Repository for Git Tutorial
+#This is my first git activity
